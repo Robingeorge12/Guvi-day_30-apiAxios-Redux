@@ -23,7 +23,7 @@ function UsersAddForm({userDetails}) {
   }
 
   return (
-    <div className="container mb-3 input-container">
+    <div className="container mb-3 input-container"> 
       <div className="row input-subdiv">
         <div className="col-sm-12 col-md-6 col-lg-6  gap-1  d-flex mb-2 mt-2">
           <span className="input-group-text " id="basic-addon1">
